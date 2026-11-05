@@ -10,6 +10,7 @@ origins = [
     "http://localhost:5173",  # Default Vite + React port
     "http://127.0.0.1:3000",
     "http://127.0.0.1:5173",
+    "https://portfolio-v3-phi-rust.vercel.app/",
 ]
 
 app.add_middleware(
